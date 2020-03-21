@@ -1,4 +1,4 @@
-##About me
+## About me
 
 My name is Huan Yu, born on 1992, PhD. student at Bejing Institute of Technology.
 
